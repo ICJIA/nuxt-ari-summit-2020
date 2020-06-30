@@ -3,6 +3,7 @@ const config = require('./config')
 console.log(process.env.NODE_ENV)
 module.exports = {
   mode: 'universal',
+  target: 'static',
 
   /*
   ** Headers of the page

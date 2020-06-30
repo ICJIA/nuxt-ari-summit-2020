@@ -1,13 +1,12 @@
 ---
-id: 'registration-lodging-and-meals'
-title: 'Registration, Lodging, and Meals'
+id: 'registration'
+title: 'Registration'
 theme: 'light'
 alignment: 'left'
 layout: 'full'
 position: 10
 ---
 
-[Eventbrite Registration Page](http://www.eventbrite.com/e/2019-adult-redeploy-illinois-criminal-justice-coordinating-council-summit-registration-59485399431) {.text-xs-center}
 
 - There are no registration costs for the event; however, all participants must register for the Summit. For those participants representing ARI programs, it is suggested that you confirm participation with your ARI program contact before registering.
 

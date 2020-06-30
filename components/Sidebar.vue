@@ -1,22 +1,22 @@
 <template>
   <div>
-    <v-navigation-drawer 
-      v-model="drawer" 
-      app 
-      
-      class="teal darken-1">
-     
-      <v-layout 
-        fill-height 
-        column 
-        ma-0 >
+    <v-navigation-drawer
+      v-model="drawer"
+      app
+
+      class="teal darken-1"
+    >
+      <v-layout
+        fill-height
+        column
+        ma-0
+      >
         <h2
           v-scroll-to="'#home'"
           class="text-xs-center"
           style="font-size: 34px; margin-top: 20px;margin-bottom: 50px; border-bottom: 1px solid #ccc; padding-bottom: 10px; color: #eee"
         >
-          2019 ARI & CJCC Summit
-        
+          2020 ARI Summit
         </h2>
 
         <div
@@ -25,26 +25,27 @@
           class="text-xs-center"
           @click="checkSidebar"
         >
-          <div 
-            :id="'sidebar-' + page.attributes.id" 
-            class="mb-4 sidebar pr-3 pl-3" 
+          <div
+            :id="'sidebar-' + page.attributes.id"
+            class="mb-4 sidebar pr-3 pl-3"
           >
-            <div 
-              v-scroll-to="'#home'" 
+            <div
               v-if="page.attributes.id === 'home'"
-              class="active">
+              v-scroll-to="'#home'"
+              class="active"
+            >
               Home
             </div>
-            <div 
-              v-scroll-to="'#' + page.attributes.id" 
-              v-else>
+            <div
+              v-else
+              v-scroll-to="'#' + page.attributes.id"
+            >
               {{ page.attributes.title }}
             </div>
           </div>
-         
         </div>
-        <v-spacer/>
-        <v-divider/>
+        <v-spacer />
+        <v-divider />
         <div class="text-xs-center mb-3 px-3 pt-4 hover">
           <img
             :src="require('@/assets/img/logo-white.png')"
@@ -52,9 +53,10 @@
             height="40"
             @click="goto('http://www.icjia.state.il.us')"
           >
-          <h5 
-            style="color: #fff" 
-            class="mt-2">
+          <h5
+            style="color: #fff"
+            class="mt-2"
+          >
             &copy;&nbsp;2019
             <a
               class="sidebar-info"
@@ -62,16 +64,16 @@
             >Illinois Criminal Justice Information Authority</a>
           </h5>
           <h5
-            class="pt-3" 
-            style="font-weight: 400">
-            <a 
-              href="https://github.com/ICJIA/nuxt-all-sites-summit-2019" 
-              class="sidebar-info">View on Github</a>
+            class="pt-3"
+            style="font-weight: 400"
+          >
+            <a
+              href="https://github.com/ICJIA/nuxt-all-sites-summit-2019"
+              class="sidebar-info"
+            >View on Github</a>
           </h5>
-         
         </div>
       </v-layout>
-      
     </v-navigation-drawer>
   </div>
 </template>

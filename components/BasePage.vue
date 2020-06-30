@@ -1,66 +1,80 @@
 /* eslint-disable vue/max-attributes-per-line */
 <template>
-  <div 
-    :id="page.attributes.id" 
-    class="page">
-    <v-container 
-      :style="setPageStyle(page.attributes.theme)" 
-      fluid 
-      class="full-width full-height">
-      <v-layout 
-        row 
-        pl-5 
-        pr-0>
-        <v-flex 
-          class="text-xs-center" 
-          xs10 
-          offset-xs1>
+  <div
+    :id="page.attributes.id"
+    class="page"
+  >
+    <v-container
+      :style="setPageStyle(page.attributes.theme)"
+      fluid
+      class="full-width full-height"
+    >
+      <v-layout
+        row
+        pl-5
+        pr-0
+      >
+        <v-flex
+          class="text-xs-center"
+          xs10
+          offset-xs1
+        >
           <div class="wrapper">
             <page-content :alignment="page.attributes.alignment">
               <template v-slot:header>
                 <div v-if="page.attributes.id === 'home'">
-                  <h1 class="mb-5 main">{{ page.attributes.title }}</h1>
+                  <h1 class="mb-5 main">
+                    {{ page.attributes.title }}
+                  </h1>
                 </div>
                 <div v-else>
-                  <h2 class="header">{{ page.attributes.title }}</h2>
+                  <h2 class="header">
+                    {{ page.attributes.title }}
+                  </h2>
                 </div>
               </template>
               <template v-slot:content>
                 <v-layout v-if="page.attributes.layout === 'full'">
                   <v-flex xs12>
-                    <div v-html="renderedMarkdown"/>
+                    <div v-html="renderedMarkdown" />
                   </v-flex>
                 </v-layout>
-                <v-layout 
-                  v-if="page.attributes.layout === 'map'" 
-                  row 
-                  wrap>
-                  <v-flex 
-                    xs12 
-                    sm12 
-                    md6>
-                    <div v-html="renderedMarkdown"/>
+                <v-layout
+                  v-if="page.attributes.layout === 'map'"
+                  row
+                  wrap
+                >
+                  <v-flex
+                    xs12
+                    sm12
+                    md6
+                  >
+                    <div v-html="renderedMarkdown" />
                   </v-flex>
-                  <v-flex 
-                    xs12 
-                    sm12 
-                    md6 
-                    hidden-sm-and-down>
-                    <!-- <h1 
-                      style="margin-top: -25px;" 
-                      class="text-xs-center">
-                      <img 
-                        :src="require('@/assets/img/map.png')" 
-                        alt="ARI 2019 Map" 
-                        height="500">
+                  <v-flex
+                    xs12
+                    sm12
+                    md6
+                    hidden-sm-and-down
+                  >
+                    <!-- <h1
+                      style="margin-top: -25px;"
+                      class="text-xs-center"
+                    >
+                      <img
+                        :src="require('@/assets/img/map.png')"
+                        alt="ARI 2019 Map"
+                        height="500"
+                      >
                     </h1> -->
                   </v-flex>
                 </v-layout>
               </template>
 
-              <template 
-                v-slot:debug 
-                v-if="config.debug">
+              <template
+                v-if="config.debug"
+                v-slot:debug
+              >
                 <div>{{ page }}</div>
               </template>
             </page-content>

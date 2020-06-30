@@ -1,6 +1,6 @@
 ---
 id: 'home'
-title: 'The 2019 Adult Redeploy Illinois & Criminal Justice Coordinating Councils Summit'
+title: '2020 Adult Redeploy Illinois All-Sites Summit: Ten Years of Transformation'
 theme: 'light'
 alignment: 'center'
 layout: 'full'
@@ -9,7 +9,7 @@ position: 0
 
 ## MAY 14 & 15, 2019
 
-<div class="mt-3">
+<!-- <div class="mt-3">
 
 ### [DoubleTree by Hilton](<https://doubletree.hilton.com/en/dt/groups/personalized/B/BMIDTDT-ICJ-20190513/index.jhtml?WT.mc_id=POG](https://doubletree.hilton.com/en/dt/groups/personalized/B/BMIDTDT-ICJ-20190513/index.jhtml?WT.mc_id=POG)>){.muted}
 
@@ -17,10 +17,6 @@ position: 0
 
 ### 10 Brickyard Drive{.muted}
 
-### Bloomington, IL 61701{.muted}
+### Bloomington, IL 61701{.muted} -->
 
-<div class="mt-3">
 
-## [Register Now](https://www.eventbrite.com/e/2019-adult-redeploy-illinois-criminal-justice-coordinating-council-summit-registration-59485399431)
-
-</div>
