@@ -68,7 +68,7 @@
             style="font-weight: 400"
           >
             <a
-              href="https://github.com/ICJIA/nuxt-all-sites-summit-2019"
+              href="https://github.com/ICJIA/nuxt-ari-summit-2020"
               class="sidebar-info"
             >View on Github</a>
           </h5>

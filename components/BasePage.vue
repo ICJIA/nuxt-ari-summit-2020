@@ -24,12 +24,12 @@
               <template v-slot:header>
                 <div v-if="page.attributes.id === 'home'">
                   <h1 class="mb-5 main">
-                    {{ page.attributes.title }}
+                    <span v-html="page.attributes.title" />
                   </h1>
                 </div>
                 <div v-else>
                   <h2 class="header">
-                    {{ page.attributes.title }}
+                    <span v-html="page.attributes.title" />
                   </h2>
                 </div>
               </template>
