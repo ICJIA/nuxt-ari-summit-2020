@@ -57,7 +57,7 @@
             style="color: #fff"
             class="mt-2"
           >
-            &copy;&nbsp;2019
+            &copy;&nbsp;2020
             <a
               class="sidebar-info"
               href="http://www.icjia.state.il.us"
