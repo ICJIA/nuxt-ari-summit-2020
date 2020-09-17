@@ -9,4 +9,10 @@ position: 0
 
 ## JUNE 17-18, 2020
 
+<img src="/Transformation.jpg"
+     alt="Adult Redeploy Summit 2020: Transformation"
+     width="350"
+     style="margin-top: 35px"
+     />
+
 
