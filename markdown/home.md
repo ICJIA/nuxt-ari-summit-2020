@@ -7,18 +7,6 @@ layout: 'full'
 position: 0
 ---
 
-## SUMMIT DATES HERE
-
-<!-- <div class="mt-3">
-
-### [DoubleTree by Hilton](<https://doubletree.hilton.com/en/dt/groups/personalized/B/BMIDTDT-ICJ-20190513/index.jhtml?WT.mc_id=POG](https://doubletree.hilton.com/en/dt/groups/personalized/B/BMIDTDT-ICJ-20190513/index.jhtml?WT.mc_id=POG)>){.muted}
-
-</div>
-
-### 10 Brickyard Drive{.muted}
-
-### Bloomington, IL 61701{.muted} -->
-
-INFO HERE
+## JUNE 17-18, 2020
 
 
