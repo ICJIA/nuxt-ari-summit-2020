@@ -1,5 +1,7 @@
 # nuxt-all-sites-summit-2020
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d48899f-ef72-41b2-b71d-b4d89e4bb92d/deploy-status)](https://app.netlify.com/sites/ariallsites2020/deploys)
+
 > The 2020 Adult Redeploy Illinois & Criminal Justice Coordinating Councils Summit
 
 The 2020 Adult Redeploy Summit was presented on the Webex platform and used the Whova app for registration and ways to interact before, during, and after the Summit. The agenda included plenary sessions and workshops designed to spark conversations to take ARI's work to the next level, and to honor the hard work partners are undertaking. There were inspiring keynote speakers, vital plenary sessions, and some MCLE and CEUs available.  

@@ -7,13 +7,7 @@ layout: 'full'
 position: 1000
 ---
 
-The 2020 ARI All-Sites Summit will focus on the practical advantages and challenges associated with coordinating across the criminal justice system to address significant problems. The Summit will include skills-building sessions on strategic planning and implementing data-driven programs, offer grants technical assistance, and facilitate discussions among sites focused on expanding impact.
+The 2020 ARI All-Sites Summit focussed on the practical advantages and challenges associated with coordinating across the criminal justice system to address significant problems. The Summit included skills-building sessions on strategic planning and implementing data-driven programs, offered grants technical assistance, and facilitated discussions among sites focused on expanding impact.
 
-For more information, contact gail.smith@illinois.gov, Policy and Project Coordinator, Adult Redeploy Illinois.
-
-[Schedule At-a-Glance](/)
-
-[Download Agenda](2019ARI-CJCCSummitAgenda5.7.pdf){.download}
-
-[Download Speaker Bios](2019_Summit_bios.pdf){.download}
+For more information, contact maryann.dyar@illinois.gov, Director, Adult Redeploy Illinois.
 

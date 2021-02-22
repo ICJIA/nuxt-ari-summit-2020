@@ -1,20 +1,18 @@
 <template>
   <div>
-    <v-navigation-drawer
-      v-model="drawer"
-      app
-
-      class="teal darken-1"
-    >
-      <v-layout
-        fill-height
-        column
-        ma-0
-      >
+    <v-navigation-drawer v-model="drawer" app style="background: #001b30">
+      <v-layout fill-height column ma-0>
         <h2
           v-scroll-to="'#home'"
           class="text-xs-center"
-          style="font-size: 34px; margin-top: 20px;margin-bottom: 50px; border-bottom: 1px solid #ccc; padding-bottom: 10px; color: #eee"
+          style="
+            font-size: 34px;
+            margin-top: 20px;
+            margin-bottom: 50px;
+            border-bottom: 1px solid #ccc;
+            padding-bottom: 10px;
+            color: #eee;
+          "
         >
           2020 ARI Summit
         </h2>
@@ -36,10 +34,7 @@
             >
               Home
             </div>
-            <div
-              v-else
-              v-scroll-to="'#' + page.attributes.id"
-            >
+            <div v-else v-scroll-to="'#' + page.attributes.id">
               {{ page.attributes.title }}
             </div>
           </div>
@@ -52,25 +47,20 @@
             class="logo"
             height="40"
             @click="goto('http://www.icjia.state.il.us')"
-          >
-          <h5
-            style="color: #fff"
-            class="mt-2"
-          >
-            &copy;&nbsp;2020
-            <a
-              class="sidebar-info"
-              href="http://www.icjia.state.il.us"
-            >Illinois Criminal Justice Information Authority</a>
+          />
+          <h5 style="color: #fff" class="mt-2">
+            &copy;&nbsp;2021&nbsp;
+            <a class="sidebar-info" href="http://www.icjia.state.il.us"
+              >Illinois Criminal Justice Information Authority</a
+            >
           </h5>
-          <h5
-            class="pt-3"
-            style="font-weight: 400"
-          >
+          <h5 class="pt-3" style="font-weight: 400">
             <a
               href="https://github.com/ICJIA/nuxt-ari-summit-2020"
+              target="_blank"
               class="sidebar-info"
-            >View on Github</a>
+              >View on Github</a
+            >
           </h5>
         </div>
       </v-layout>
@@ -87,7 +77,7 @@ export default {
     return {
       drawer: null,
       clipped: false,
-      pages
+      pages,
     }
   },
   computed: {
@@ -99,7 +89,7 @@ export default {
     },
     sideBarId() {
       return 'sidebar-'
-    }
+    },
   },
   mounted() {
     if (this.isXs || this.isSm) {
@@ -111,7 +101,7 @@ export default {
     EventBus.$on('toggleSidebar', () => {
       this.drawer = !this.drawer
     })
-    EventBus.$on('setSidebar', value => {
+    EventBus.$on('setSidebar', (value) => {
       this.drawer = value
     })
   },
@@ -123,8 +113,8 @@ export default {
     },
     goto(url) {
       location.href = url
-    }
-  }
+    },
+  },
 }
 </script>
 
@@ -153,7 +143,7 @@ h6 {
 }
 
 .active {
-  color: #42d5c6 !important;
+  color: #777 !important;
 }
 
 .sidebar-info {
