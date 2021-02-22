@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "kill-port 3000 && node generateManifest.js && nuxt -o",
-    "build": "nuxt build",
+    "build": "node generateManifest.js && nuxt build",
     "start": "nuxt start",
     "generate": "node generateManifest.js && nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
