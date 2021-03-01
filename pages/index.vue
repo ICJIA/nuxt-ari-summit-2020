@@ -2,10 +2,7 @@
   <div>
     <sidebar-icon />
 
-    <base-page 
-      v-for="(page, index) in pages" 
-      :key="index" 
-      :page="page" />
+    <base-page v-for="(page, index) in pages" :key="index" :page="page" />
   </div>
 </template>
 
@@ -17,11 +14,11 @@ import pages from '@/manifest.json'
 export default {
   components: {
     BasePage,
-    SidebarIcon
+    SidebarIcon,
   },
   data() {
     return {
-      pages
+      pages,
     }
   },
   mounted() {
@@ -34,7 +31,7 @@ export default {
     //   })
     // }
   },
-  methods: {}
+  methods: {},
 }
 </script>
 

@@ -7,16 +7,28 @@ layout: 'full'
 position: 1100
 ---
 
+<style>
+a {font-size: 15px}
+</style>
+
+
+
 
 ## Adult Redeploy Documents
 
-[Adult Redeploy Illinois Fact Sheet](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\AdultRedeployIllinoisFactSheet-SFY20.pdf)
+<div style="margin-left: 20px">
 
-[ARI COVID-19 Site Survey Results](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\ARICOVID-19SiteSurveyResults.pdf)
+- [Adult Redeploy Illinois Fact Sheet](AdultRedeployIllinoisFactSheet-SFY20.pdf)
 
-[ARI Strategic Plan 2020-2022](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\ARIStrategicPlan2020-2022.pdf)
+- [ARI COVID-19 Site Survey Results](ARICOVID-19SiteSurveyResults.pdf)
+
+- [ARI Strategic Plan 2020-2022](ARIStrategicPlan2020-2022.pdf)
+
+</div>
 
 ## Keynote Addresses
+
+<div style="margin-left: 20px">
 
 - Juliana Stratton, Lieutenant Governor, State of Illinois
 
@@ -24,15 +36,19 @@ position: 1100
 
 https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
 
-[Resource: The Justice, Equity, and Opportunity Initiative Report](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\JusticeEquityAndOpportunityInitiativeReport.pdf)
+[Resource: The Justice, Equity, and Opportunity Initiative Report](JusticeEquityAndOpportunityInitiativeReport.pdf)
 
 - Grace Hou, Secretary, Illinois Department of Human Services 
 Keynote
 
 https://youtu.be/xbsIhtt_fj4 
+
+</div>
    
 
 ## Plenary Sessions
+
+<div style="margin-left: 20px">
 
 ### A Conversation on the Future of Community Corrections
 
@@ -46,15 +62,15 @@ Listen as experts in community corrections, at the national level and state leve
 
 https://youtu.be/rUHgoZGrTf0
 
-[Resource: Statement on the Future of Probation & Parole in the US – ExiT](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\EXiT-StatementOnTheFutureOfProbation&ParoleInTheUS.pdf)
+[Resource: Statement on the Future of Probation & Parole in the US – ExiT](EXiT-StatementOnTheFutureOfProbation&ParoleInTheUS.pdf)
 
-[Resource: Leveraging the Power of Smartphone Apps to Enhance Community Supervision – American Probation and Parole Association (APPA)](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\APPA-LeveragingThePowerOfSmartphoneAppsToEnhanceCommunitySupervision.pdf)
+[Resource: Leveraging the Power of Smartphone Apps to Enhance Community Supervision – American Probation and Parole Association (APPA)](APPA-LeveragingThePowerOfSmartphoneAppsToEnhanceCommunitySupervision.pdf)
 
-[Resource: Probation Officer as Coach – Dr. Brian Lovins](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\Lovins-ProbationOfficerAsACoach.pdf)
+[Resource: Probation Officer as Coach – Dr. Brian Lovins](Lovins-ProbationOfficerAsACoach.pdf)
 
-[Resource: Comprehensive Policies Can Improve Probation & Parole Fact Sheet – Pew Public Safety Performance Project (PSPP)](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\Pew-ComprehensivePoliciesCanImproveProbation&Parole.pdf)
+[Resource: Comprehensive Policies Can Improve Probation & Parole Fact Sheet – Pew Public Safety Performance Project (PSPP)](Pew-ComprehensivePoliciesCanImproveProbation&Parole.pdf)
 
-[Resource: Policy Reforms Can Strengthen Community Supervision – Pew PSPP](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\Pew-Report-PolicyReformsCanStrengthenCommunitySupervision.pdf)
+[Resource: Policy Reforms Can Strengthen Community Supervision – Pew PSPP](Pew-Report-PolicyReformsCanStrengthenCommunitySupervision.pdf)
 
 
 ### Wellness Strategies to Build Resilience
@@ -65,12 +81,17 @@ This workshop is an empowering twist on vicarious trauma. The session will cover
 
 https://youtu.be/oRDJmb1qnUI
 
-[Slides: Wellness Strategies to Build Resilience – Dr. Anjali Nandi ](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 2\WellnessStrategies-ANandi.pdf)
+[Slides: Wellness Strategies to Build Resilience – Dr. Anjali Nandi](Slides-WellnessStrategiestoBuildResilience.pdf)
+
+</div>
 
 
 ## Breakout Sessions
 
-21st Century Treatment: The Dance of Transforming Traditional to Virtual Services  
+<div style="margin-left: 20px">
+
+### 21st Century Treatment: The Dance of Transforming Traditional to Virtual Services  
+
 Whether we are in unprecedented times of a pandemic, or a person merely lives in a rural or urban area without reliable transportation, “Access to Care” is a real issue facing many individuals seeking care, as well as those referring individuals for services. Workshop attendees will learn from industry leaders the benefits and the necessities of being able to seamlessly and effectively connect to virtual platforms for behavioral health services that have traditionally been provided in an “in person” setting. Data on effectiveness, rules and regulations that create opportunities and barriers, as well as examples of virtual platform resources will be shared with workshop attendees.
 
 - Debbie Humphrey, MBA, BSN, RN, Executive Director, Madison County Mental Health Board
@@ -81,9 +102,8 @@ Whether we are in unprecedented times of a pandemic, or a person merely lives in
 
 https://youtu.be/eXTTZqR0pvU 
 
-[Slides: 21st Century Treatment - The Dance of Transforming Traditional to Virtual Services](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\21stCenturyTreatment-TheDanceOfTransformingTraditionalToVirtualServices.pdf)
+[Slides: 21st Century Treatment - The Dance of Transforming Traditional to Virtual Services](Slides-21stCenturyTreatment-TheDanceofTransformingTraditionaltoVirtualServices.pdf)
 
-<!-- TAGS: Mental Health Court -->
 
 
 ### Aligning Community-Based Housing Responses with Community Corrections Initiatives
@@ -95,13 +115,13 @@ Richard Rowe, Senior Program Manager, Corporation for Supportive Housing
 
 https://youtu.be/ILoVZ0LtfcY
 
-[Slides: Aligning Community-Based Housing Responses with Community Corrections Initiatives](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 2\AligningHousingInitiatives-CSH.pdf)
+[Slides: Aligning Community-Based Housing Responses with Community Corrections Initiatives](Slides-AligningHousingInitiatives-CSH.pdf)
 
-[Resource: A Continuum of Supports for Housing the Justice-Involved](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\AContinuumOfSupportsForHousingTheJustice-Involved.pdf)
+[Resource: A Continuum of Supports for Housing the Justice-Involved](AContinuumOfSupportsForHousingTheJustice-Involved.pdf)
 
-[Resource: Just Housing Initiative Fact Sheet 2019](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\JustHousingInitiativeFactSheet2019.pdf)
+[Resource: Just Housing Initiative Fact Sheet 2019](JustHousingInitiativeFactSheet2019.pdf)
 
-[Resource: Issue Brief - Addressing Housing Instability – NGA CSH](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\NGA-CSH-IssueBrief-AddressingHousingInstability.pdf)
+[Resource: Issue Brief - Addressing Housing Instability – NGA CSH](NGA-CSH-IssueBrief-AddressingHousingInstability.pdf)
 
 <!-- TAGS: Reintegration Resources -->
 
@@ -116,7 +136,7 @@ Effectively addressing trauma is vital to the success of ARI participants and pr
 
 https://multimedia.illinois.gov/icjia/ICJIA-Integrated-Trauma-Treatment-Program-061820.mp4
 
-[Slides: Breakthroughs in Trauma Treatment - ITTP – SIU](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 2\BreakthroughsInTraumaTreatment-ITTP-SIU.pdf)
+[Slides: Breakthroughs in Trauma Treatment - ITTP – SIU](Slides-BreakthroughsinTraumaTreatment.pdf)
 
 <!-- TAGS: Drug Court, Mental Health Court
  -->
@@ -134,7 +154,7 @@ How can Adult Redeploy Illinois sites integrate restorative practices into their
 
 https://youtu.be/bsZZzSbGAj8 
 
-[Resource: Restorative Justice Grounding Principles Framework](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\RestorativeJusticeGroundingPrinciplesFramework.pdf)
+[Resource: Restorative Justice Grounding Principles Framework](RestorativeJusticeGroundingPrinciplesFramework.pdf)
 
 <!-- TAGS: Effective and Restorative Practices -->
 
@@ -153,17 +173,17 @@ Probation officers and courts sometimes face repeated non-compliance by people t
 
 https://www.youtube.com/watch?v=2eTFPc47vXw&feature=youtu.be
 
-[Resource: 5 Rs of Restorative Practice](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\5-RsOfRestorativePractice.pdf)
+[Resource: 5 Rs of Restorative Practice](5-RsOfRestorativePractice.pdf)
 
-[Resource: 7 Core Assumptions - Circle Forward](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\7CoreAssumptions-CircleForward.pdf)
+[Resource: 7 Core Assumptions - Circle Forward](7CoreAssumptions-CircleForward.pdf)
 
-[Resource: Peacemaking Circles](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\PeacemakingCircles.pdf)
+[Resource: Peacemaking Circles](PeacemakingCircles.pdf)
 
-[Resource: Using Restorative Practices for Community Building – Kay Pranis](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\Pranis-UsingRestorativePracticesForCommunityBuilding.pdf)
+[Resource: Using Restorative Practices for Community Building – Kay Pranis](Pranis-UsingRestorativePracticesForCommunityBuilding.pdf)
 
-[Resource: Restorative Justice Grounding Principles Framework](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\RestorativeJusticeGroundingPrinciplesFramework.pdf)
+[Resource: Restorative Justice Grounding Principles Framework](RestorativeJusticeGroundingPrinciplesFramework.pdf)
 
-[Resource: Restorative Justice on the Rise - Individual & Collective Accountability – Kay Pranis](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\Pranis-RestorativeJusticeOnTheRise-Individual&CollectiveAccountability.pdf)
+[Resource: Restorative Justice on the Rise - Individual & Collective Accountability – Kay Pranis](Pranis-RestorativeJusticeOnTheRise-Individual&CollectiveAccountability.pdf)
 
 <!-- TAGS: Effective and Restorative Practices -->
 
@@ -180,11 +200,11 @@ Substance Use Disorder is a chronic, relapsing brain disease. This complex disea
 
 https://youtu.be/3HdrvQ3j0q4 
 
-[Slides: The Neurobiology of Substance Use Disorder and Medication Assisted Treatment](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 2\TheNeurobiologyOfSubstanceUseDisordersAndMAT.pdf)
+[Slides: The Neurobiology of Substance Use Disorder and Medication Assisted Treatment](Slides-TheNeurobiologyOfSubstanceUseDisordersAndMAT.pdf)
 
-[Resource: Understanding Medication in Addiction Treatment](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\UnderstandingMedicationInAddictionTreatment.pdf)
+[Resource: Understanding Medication in Addiction Treatment](UnderstandingMedicationInAddictionTreatment.pdf)
 
-[Resource: A Drug Court Team Member's Guide to Medication in Addiction Treatment](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\DrugCourtTeamMembersGuideToMedicationInAddictionTreatment.pdf)
+[Resource: A Drug Court Team Member's Guide to Medication in Addiction Treatment](DrugCourtTeamMembersGuideToMedicationInAddictionTreatment.pdf)
 
 <!-- TAGS: Drug Court -->
 
@@ -201,7 +221,7 @@ https://youtu.be/AzuuUNQO9wI
 
 [Slides: Does ARI Change the Rate of Prison Use? – SPAC](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\ARIAndPrisonUse-SPAC.pdf)
 
-[Resource: County Use of Prison in ARI Counties – Illinois Sentencing Policy Advisory Council (SPAC)](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\SPAC-Memo-CountyUseOfPrisonInARICounties.pdf)
+[Resource: County Use of Prison in ARI Counties – Illinois Sentencing Policy Advisory Council (SPAC)](SPAC-Memo-CountyUseOfPrisonInARICounties.pdf)
 
 <!-- TAGS: Evaluation -->
 
@@ -218,15 +238,15 @@ How can judges, prosecutors, and defense counsel prevent criminal convictions fr
 
 https://youtu.be/mqlwRgGr6bc 
 
-[Slides: Criminal Records Relief – CBurns](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\CriminalRecordsRelief-CBurns.pdf)
+[Slides: Criminal Records Relief – CBurns](Slides-CriminalRecordsRelief-Hon.CharlesBurns.pdf)
 
-[Slides: Criminal Records Relief – CGLA BWilliams](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\CGLACriminalRecordsRelief-BWilliams.pdf)
+[Slides: Criminal Records Relief – CGLA BWilliams](Slides-CGLACriminalRecordsRelief.BrandonWilliams.pdf)
 
-[Resource: Drug Court Treatment Act](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\DrugCourtTreatmentAct.pdf)
+[Resource: Drug Court Treatment Act](DrugCourtTreatmentAct.pdf)
 
-[Resource: Expungement, Sealing, and Immediate Sealing Law](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Summit Materials\Summit Materials\ExpungementSealingAndImmediateSealingLaw-20ILCS2630_5.2.pdf)
+[Resource: Expungement, Sealing, and Immediate Sealing Law](ExpungementSealingAndImmediateSealingLaw-20ILCS2630_5.2.pdf)
 
-TAGS: Effective and Restorative Practices, Reintegration Resources
+<!-- TAGS: Effective and Restorative Practices, Reintegration Resources -->
 
 
 ### Transforming Day-to-Day Probation Practice: The Use of Drug Testing
@@ -239,9 +259,9 @@ Individuals on probation often are subject to drug testing. Positive test result
 
 https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be
 
-[Slides: Transforming Day-to-Day Probation Practice - The Use of Drug Testing – Jessica Reichert](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\TransformingDayToDayProbationPractice-UseOfDrugTesting-JReichert.pdf)
+[Slides: Transforming Day-to-Day Probation Practice - The Use of Drug Testing – Jessica Reichert](Slides-TransformingDay-to-DayProbationPractice-TheUseofDrugTesting,Reichert.pdf)
 
-[Slides: The Use of Drug Testing in a Problem-Solving Court – Emily Behnke](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\TheUseOfDrugTestingInAPSC-EBehnke.pdf)
+[Slides: The Use of Drug Testing in a Problem-Solving Court – Emily Behnke](Slides-TheUseOfDrugTestingInAPSC-EBehnke.pdf)
 
 <!-- TAGS: Drug Court -->
 
@@ -258,7 +278,7 @@ This session is designed to help agencies utilize data to advance best practices
 
 https://youtu.be/GnyosDwJFpI
 
-[Slides: Using Evaluation - Best Practices in Drug Court Programs](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\UsingEvaluation-BestPracticesInDrugCourtPrograms.pdf)
+[Slides: Using Evaluation - Best Practices in Drug Court Programs](Slides-UsingEvaluation-BestPracticesInDrugCourtPrograms.pdf.pdf)
 
 <!-- TAGS: Drug Court, Evaluation -->
 
@@ -272,7 +292,7 @@ Day programming can be used as a therapeutic adjustment tool, and also as a way 
 
 https://youtu.be/xISA1vFMENU 
 
-[Slides: Why Day Programming Is More than STATS](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 2\WhyDayProgrammingIsMoreThanSTATS.pdf)
+[Slides: Why Day Programming Is More than STATS](Slides-WhyDayProgrammingIsMoreThanSTATS.pdf)
 <!-- 
 TAGS: Drug Court, Mental Health Court, Veterans Court -->
 
@@ -289,7 +309,9 @@ This session explores the growing movement for criminal justice practitioners to
 
 https://youtu.be/5ZNJEPs3mPc
 
-[Slides: Emerging Adults – Lisa Jacobs]( S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 2\EmergingAdults-LJacobs.pdf)
+[Slides: Emerging Adults – Lisa Jacobs](Slides-EmergingAdults-LisaJacobs.pdf)
+
+</div>
 
 <!-- TAGS: Effective and Restorative Practices -->
 
