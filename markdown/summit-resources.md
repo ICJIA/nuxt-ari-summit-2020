@@ -115,7 +115,7 @@ Richard Rowe, Senior Program Manager, Corporation for Supportive Housing
 
 https://youtu.be/ILoVZ0LtfcY
 
-[Slides: Aligning Community-Based Housing Responses with Community Corrections Initiatives](Slides-AligningHousingInitiatives-CSH.pdf)
+[Slides: Aligning Community-Based Housing Responses with Community Corrections Initiatives](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-CSH-Aligning%20Community-Based%20Housing%20ResponseswCommunityCorrectionsInitiatives.pdf)
 
 [Resource: A Continuum of Supports for Housing the Justice-Involved](AContinuumOfSupportsForHousingTheJustice-Involved.pdf)
 
@@ -219,7 +219,7 @@ One of the baseline questions about alternatives to incarceration is whether the
 
 https://youtu.be/AzuuUNQO9wI 
 
-[Slides: Does ARI Change the Rate of Prison Use? – SPAC](S:\MARY ANN DYAR\Adult Redeploy Illinois\All-Sites Summit\June 2020 All-Sites Summit\Presentations\Power Points\Day 1\ARIAndPrisonUse-SPAC.pdf)
+[Slides: Does ARI Change the Rate of Prison Use? – SPAC](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-SPAC-Does%20ARI%20Change%20the%20Rate%20of%20Prison%20Use.pdf)
 
 [Resource: County Use of Prison in ARI Counties – Illinois Sentencing Policy Advisory Council (SPAC)](SPAC-Memo-CountyUseOfPrisonInARICounties.pdf)
 
@@ -261,7 +261,7 @@ https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be
 
 [Slides: Transforming Day-to-Day Probation Practice - The Use of Drug Testing – Jessica Reichert](Slides-TransformingDay-to-DayProbationPractice-TheUseofDrugTesting,Reichert.pdf)
 
-[Slides: The Use of Drug Testing in a Problem-Solving Court – Emily Behnke](Slides-TheUseOfDrugTestingInAPSC-EBehnke.pdf)
+[Slides: The Use of Drug Testing in a Problem-Solving Court – Emily Behnke](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-The%20Use%20of%20Drug%20Testing%20in%20a%20Problem-Solving%20Court,%20Behnke.pdf)
 
 <!-- TAGS: Drug Court -->
 
