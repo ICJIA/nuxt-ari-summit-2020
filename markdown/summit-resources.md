@@ -278,7 +278,7 @@ This session is designed to help agencies utilize data to advance best practices
 
 https://youtu.be/GnyosDwJFpI
 
-[Slides: Using Evaluation - Best Practices in Drug Court Programs](Slides-UsingEvaluation-BestPracticesInDrugCourtPrograms.pdf.pdf)
+[Slides: Using Evaluation - Best Practices in Drug Court Programs](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-UsingEvaluation-BestPracticesinDrugCourtPrograms.pdf)
 
 <!-- TAGS: Drug Court, Evaluation -->
 
