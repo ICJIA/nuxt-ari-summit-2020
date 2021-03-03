@@ -41,7 +41,7 @@ https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
 - Grace Hou, Secretary, Illinois Department of Human Services 
 Keynote
 
-https://youtu.be/xbsIhtt_fj4 
+[Recording: https://youtu.be/xbsIhtt_fj4](https://youtu.be/xbsIhtt_fj4)
 
 </div>
    
@@ -60,7 +60,7 @@ Listen as experts in community corrections, at the national level and state leve
 
 - Veronica Cunningham, moderator, Executive Director, American Probation and Parole Association
 
-https://youtu.be/rUHgoZGrTf0
+[Recording: https://youtu.be/rUHgoZGrTf0](https://youtu.be/rUHgoZGrTf0)
 
 [Resource: Statement on the Future of Probation & Parole in the US – ExiT](EXiT-StatementOnTheFutureOfProbation&ParoleInTheUS.pdf)
 
@@ -79,7 +79,7 @@ This workshop is an empowering twist on vicarious trauma. The session will cover
 
 - Anjali Nandi, Ph.D., LAC, MAC, Director, InStil Consulting
 
-https://youtu.be/oRDJmb1qnUI
+[Recording: https://youtu.be/oRDJmb1qnUI](https://youtu.be/oRDJmb1qnUI)
 
 [Slides: Wellness Strategies to Build Resilience – Dr. Anjali Nandi](Slides-WellnessStrategiestoBuildResilience.pdf)
 
@@ -100,7 +100,7 @@ Whether we are in unprecedented times of a pandemic, or a person merely lives in
 
 - James Wallis, Director of Business Development, Chestnut Health Systems 
 
-https://youtu.be/eXTTZqR0pvU 
+[Recording: https://youtu.be/eXTTZqR0pvU](https://youtu.be/eXTTZqR0pvU)
 
 [Slides: 21st Century Treatment - The Dance of Transforming Traditional to Virtual Services](Slides-21stCenturyTreatment-TheDanceofTransformingTraditionaltoVirtualServices.pdf)
 
@@ -113,7 +113,7 @@ The goals of the Adult Redeploy Illinois program to keep people in their communi
 - Betsy Benito, Director for Illinois Programs, Corporation for Supportive Housing  
 Richard Rowe, Senior Program Manager, Corporation for Supportive Housing
 
-https://youtu.be/ILoVZ0LtfcY
+[Recording: https://youtu.be/ILoVZ0LtfcY](https://youtu.be/ILoVZ0LtfcY)
 
 [Slides: Aligning Community-Based Housing Responses with Community Corrections Initiatives](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-CSH-Aligning%20Community-Based%20Housing%20ResponseswCommunityCorrectionsInitiatives.pdf)
 
@@ -134,7 +134,7 @@ Effectively addressing trauma is vital to the success of ARI participants and pr
 
 - Tracey Smith, Ph.D., R.N., Executive Director, Office of Community Initiatives and Complex Care, Southern Illinois University School of Medicine
 
-https://multimedia.illinois.gov/icjia/ICJIA-Integrated-Trauma-Treatment-Program-061820.mp4
+[Recording: https://multimedia.illinois.gov/icjia/ICJIA-Integrated-Trauma-Treatment-Program-061820.mp4](https://multimedia.illinois.gov/icjia/ICJIA-Integrated-Trauma-Treatment-Program-061820.mp4)
 
 [Slides: Breakthroughs in Trauma Treatment - ITTP – SIU](Slides-BreakthroughsinTraumaTreatment.pdf)
 
@@ -152,7 +152,7 @@ How can Adult Redeploy Illinois sites integrate restorative practices into their
 
 - Fr. Dave Kelly, C.PP.S., Executive Director, Precious Blood Ministry of Reconciliation NFP
 
-https://youtu.be/bsZZzSbGAj8 
+[Recording: https://youtu.be/bsZZzSbGAj8](https://youtu.be/bsZZzSbGAj8)
 
 [Resource: Restorative Justice Grounding Principles Framework](RestorativeJusticeGroundingPrinciplesFramework.pdf)
 
@@ -171,7 +171,7 @@ Probation officers and courts sometimes face repeated non-compliance by people t
 
 - Nancy Michaels, Interim Co-Executive Director, Illinois Balanced and Restorative Justice
 
-https://www.youtube.com/watch?v=2eTFPc47vXw&feature=youtu.be
+[Recording: https://www.youtube.com/watch?v=2eTFPc47vXw&feature=youtu.be](https://www.youtube.com/watch?v=2eTFPc47vXw&feature=youtu.be)
 
 [Resource: 5 Rs of Restorative Practice](5-RsOfRestorativePractice.pdf)
 
@@ -198,7 +198,7 @@ Substance Use Disorder is a chronic, relapsing brain disease. This complex disea
 
 - Justin Westhoff, Winnebago County Problem Solving Courts
 
-https://youtu.be/3HdrvQ3j0q4 
+[Recording: https://youtu.be/3HdrvQ3j0q4](https://youtu.be/3HdrvQ3j0q4)
 
 [Slides: The Neurobiology of Substance Use Disorder and Medication Assisted Treatment](Slides-TheNeurobiologyOfSubstanceUseDisordersAndMAT.pdf)
 
@@ -217,7 +217,7 @@ One of the baseline questions about alternatives to incarceration is whether the
 
 - Mark Powers, Senior Research Analyst, Sentencing Policy Advisory Council
 
-https://youtu.be/AzuuUNQO9wI 
+[Recording: https://youtu.be/AzuuUNQO9wI](https://youtu.be/AzuuUNQO9wI) 
 
 [Slides: Does ARI Change the Rate of Prison Use? – SPAC](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-SPAC-Does%20ARI%20Change%20the%20Rate%20of%20Prison%20Use.pdf)
 
@@ -236,7 +236,7 @@ How can judges, prosecutors, and defense counsel prevent criminal convictions fr
 
 - Brandon Williams, Supervising Attorney Criminal Records, Cabrini Green Legal Aid
 
-https://youtu.be/mqlwRgGr6bc 
+[Recording: https://youtu.be/mqlwRgGr6bc](https://youtu.be/mqlwRgGr6bc) 
 
 [Slides: Criminal Records Relief – CBurns](Slides-CriminalRecordsRelief-Hon.CharlesBurns.pdf)
 
@@ -257,7 +257,7 @@ Individuals on probation often are subject to drug testing. Positive test result
 
 - Emily Behnke, Deputy Court Administrator, Problem-Solving Courts, 17th Judicial Circuit  
 
-https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be
+[Recording: https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be](https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be)
 
 [Slides: Transforming Day-to-Day Probation Practice - The Use of Drug Testing – Jessica Reichert](Slides-TransformingDay-to-DayProbationPractice-TheUseofDrugTesting,Reichert.pdf)
 
@@ -276,21 +276,22 @@ This session is designed to help agencies utilize data to advance best practices
 
 - Shelby Savoree, Program Evaluator Consultant, Center for the Study of Domestic Violence and Sexual Assault, Northern Illinois University
 
-https://youtu.be/GnyosDwJFpI
+[Recording: https://youtu.be/GnyosDwJFpI](https://youtu.be/GnyosDwJFpI)
 
 [Slides: Using Evaluation - Best Practices in Drug Court Programs](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-UsingEvaluation-BestPracticesinDrugCourtPrograms.pdf)
 
 <!-- TAGS: Drug Court, Evaluation -->
 
 
-Why Day Programming is More Than STATS: The Importance of Staying Connected during a Pandemic  
+**Why Day Programming is More Than STATS: The Importance of Staying Connected during a Pandemic**
+
 Day programming can be used as a therapeutic adjustment tool, and also as a way to keep participants connected during uncertain times. STATS are important and assist in providing valuable information, but what’s behind the STATS? This workshop will take a deeper look into how day programming has assisted the Will County Problem Solving Court participants during COVID-19.
 
 - Terry McCormick, Psy.D., Qualified Mental Health Professional, Will County State’s Attorney
 
 - Don Martin, LPC, CADC, Case Manager, Will County Problem Solving Courts
 
-https://youtu.be/xISA1vFMENU 
+[Recording: https://youtu.be/xISA1vFMENU](https://youtu.be/xISA1vFMENU) 
 
 [Slides: Why Day Programming Is More than STATS](Slides-WhyDayProgrammingIsMoreThanSTATS.pdf)
 <!-- 
@@ -307,7 +308,7 @@ This session explores the growing movement for criminal justice practitioners to
 
 - Kathy Starkovich, Deputy Director, DuPage County Department of Probation and Court Services
 
-https://youtu.be/5ZNJEPs3mPc
+[Recording: https://youtu.be/5ZNJEPs3mPc](https://youtu.be/5ZNJEPs3mPc)
 
 [Slides: Emerging Adults – Lisa Jacobs](Slides-EmergingAdults-LisaJacobs.pdf)
 
