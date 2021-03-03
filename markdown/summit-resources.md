@@ -11,9 +11,6 @@ position: 1100
 a {font-size: 15px}
 </style>
 
-
-
-
 ## Adult Redeploy Documents
 
 <div style="margin-left: 20px">
@@ -38,13 +35,13 @@ https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
 
 [Resource: The Justice, Equity, and Opportunity Initiative Report](JusticeEquityAndOpportunityInitiativeReport.pdf)
 
-- Grace Hou, Secretary, Illinois Department of Human Services 
-Keynote
+- Grace Hou, Secretary, Illinois Department of Human Services
+  Keynote
 
 [Recording: https://youtu.be/xbsIhtt_fj4](https://youtu.be/xbsIhtt_fj4)
 
 </div>
-   
+
 
 ## Plenary Sessions
 
@@ -72,7 +69,6 @@ Listen as experts in community corrections, at the national level and state leve
 
 [Resource: Policy Reforms Can Strengthen Community Supervision – Pew PSPP](Pew-Report-PolicyReformsCanStrengthenCommunitySupervision.pdf)
 
-
 ### Wellness Strategies to Build Resilience
 
 This workshop is an empowering twist on vicarious trauma. The session will cover exciting research on the neurobiology of vicarious trauma as well as talk about stress and compassion fatigue. Participants will walk away with practical tools to build resilience and buffer yourself from vicarious trauma. You will learn strategies that you can use in-the-moment, while working with clients, to set your brain up for success. We will learn how to not play the pass-the-trauma game with colleagues and how to engage in boundaried empathy. You will leave this training with an understanding of your risk for vicarious trauma, a self-care plan, resilience strategies, and tips to manage the impact from your exposure to traumatizing information.
@@ -85,33 +81,30 @@ This workshop is an empowering twist on vicarious trauma. The session will cover
 
 </div>
 
-
 ## Breakout Sessions
 
 <div style="margin-left: 20px">
 
-### 21st Century Treatment: The Dance of Transforming Traditional to Virtual Services  
+### 21st Century Treatment: The Dance of Transforming Traditional to Virtual Services
 
 Whether we are in unprecedented times of a pandemic, or a person merely lives in a rural or urban area without reliable transportation, “Access to Care” is a real issue facing many individuals seeking care, as well as those referring individuals for services. Workshop attendees will learn from industry leaders the benefits and the necessities of being able to seamlessly and effectively connect to virtual platforms for behavioral health services that have traditionally been provided in an “in person” setting. Data on effectiveness, rules and regulations that create opportunities and barriers, as well as examples of virtual platform resources will be shared with workshop attendees.
 
 - Debbie Humphrey, MBA, BSN, RN, Executive Director, Madison County Mental Health Board
 
-- Kristine Gamm-Smith, Executive Director, NAMI of Southern Illinois 
+- Kristine Gamm-Smith, Executive Director, NAMI of Southern Illinois
 
-- James Wallis, Director of Business Development, Chestnut Health Systems 
+- James Wallis, Director of Business Development, Chestnut Health Systems
 
 [Recording: https://youtu.be/eXTTZqR0pvU](https://youtu.be/eXTTZqR0pvU)
 
 [Slides: 21st Century Treatment - The Dance of Transforming Traditional to Virtual Services](Slides-21stCenturyTreatment-TheDanceofTransformingTraditionaltoVirtualServices.pdf)
 
-
-
 ### Aligning Community-Based Housing Responses with Community Corrections Initiatives
 
-The goals of the Adult Redeploy Illinois program to keep people in their community, out of prison and jail, while increasing health and employment are aligned with the goals of other community-based services such as supportive housing.  CSH will discuss the findings of the planning project in partnership with ICJIA, highlight local and national evidence on how housing interventions reduce justice involvement, and uplift statewide opportunities to increase access to housing resources for this population. This session will also include concrete next steps within each community, uplifting steps already being taken among ARI sites.
+The goals of the Adult Redeploy Illinois program to keep people in their community, out of prison and jail, while increasing health and employment are aligned with the goals of other community-based services such as supportive housing. CSH will discuss the findings of the planning project in partnership with ICJIA, highlight local and national evidence on how housing interventions reduce justice involvement, and uplift statewide opportunities to increase access to housing resources for this population. This session will also include concrete next steps within each community, uplifting steps already being taken among ARI sites.
 
 - Betsy Benito, Director for Illinois Programs, Corporation for Supportive Housing  
-Richard Rowe, Senior Program Manager, Corporation for Supportive Housing
+  Richard Rowe, Senior Program Manager, Corporation for Supportive Housing
 
 [Recording: https://youtu.be/ILoVZ0LtfcY](https://youtu.be/ILoVZ0LtfcY)
 
@@ -125,10 +118,9 @@ Richard Rowe, Senior Program Manager, Corporation for Supportive Housing
 
 <!-- TAGS: Reintegration Resources -->
 
-
 ### Breakthroughs in Trauma Treatment
 
-Effectively addressing trauma is vital to the success of ARI participants and programs. This session explains elements of a basic Integrated Trauma Treatment Program (ITTP) including psychotherapy types used (EMDR, Seeking Safety, and others), effective practices, and systemic aspects. We will discuss funding mechanisms, and how to build and maintain partnerships across legal, medical, and social service sectors. 
+Effectively addressing trauma is vital to the success of ARI participants and programs. This session explains elements of a basic Integrated Trauma Treatment Program (ITTP) including psychotherapy types used (EMDR, Seeking Safety, and others), effective practices, and systemic aspects. We will discuss funding mechanisms, and how to build and maintain partnerships across legal, medical, and social service sectors.
 
 - Meghan Golden, DSW, LCSW, Director of Behavioral Health Initiatives, Southern Illinois University School of Medicine
 
@@ -140,7 +132,6 @@ Effectively addressing trauma is vital to the success of ARI participants and pr
 
 <!-- TAGS: Drug Court, Mental Health Court
  -->
-
 
 ### Community Engagement & Restorative Practices in ARI
 
@@ -157,7 +148,6 @@ How can Adult Redeploy Illinois sites integrate restorative practices into their
 [Resource: Restorative Justice Grounding Principles Framework](RestorativeJusticeGroundingPrinciplesFramework.pdf)
 
 <!-- TAGS: Effective and Restorative Practices -->
-
 
 ### Effective Sanctions & Restorative Community Practice
 
@@ -187,7 +177,6 @@ Probation officers and courts sometimes face repeated non-compliance by people t
 
 <!-- TAGS: Effective and Restorative Practices -->
 
-
 ### Neurobiology of Substance Use Disorders & Medication Assisted Treatment
 
 Substance Use Disorder is a chronic, relapsing brain disease. This complex disease takes more than a strong will to quit. Understanding how the brain functions helps us to use appropriate strategies that impact program retention. We explore key components in chemical dependence, how addictive substances affect the brain, evidence-based practices for substance use disorder, and the role of MAT in treatment.
@@ -208,23 +197,21 @@ Substance Use Disorder is a chronic, relapsing brain disease. This complex disea
 
 <!-- TAGS: Drug Court -->
 
-
 ### Prison Use Declines in ARI Jurisdictions - Implications for the Future
 
-One of the baseline questions about alternatives to incarceration is whether they impact the use of prison.  Last year SPAC analyzed criminal justice data to answer the question: "Does Adult Redeploy Illinois change the rate of prison use in jurisdictions with ARI programs?" The SPAC team will present what the analysis revealed and offer their thoughts on what the results mean for ARI.
+One of the baseline questions about alternatives to incarceration is whether they impact the use of prison. Last year SPAC analyzed criminal justice data to answer the question: "Does Adult Redeploy Illinois change the rate of prison use in jurisdictions with ARI programs?" The SPAC team will present what the analysis revealed and offer their thoughts on what the results mean for ARI.
 
 - Kathryn Saltmarsh, Executive Director, Sentencing Policy Advisory Council
 
 - Mark Powers, Senior Research Analyst, Sentencing Policy Advisory Council
 
-[Recording: https://youtu.be/AzuuUNQO9wI](https://youtu.be/AzuuUNQO9wI) 
+[Recording: https://youtu.be/AzuuUNQO9wI](https://youtu.be/AzuuUNQO9wI)
 
 [Slides: Does ARI Change the Rate of Prison Use? – SPAC](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-SPAC-Does%20ARI%20Change%20the%20Rate%20of%20Prison%20Use.pdf)
 
 [Resource: County Use of Prison in ARI Counties – Illinois Sentencing Policy Advisory Council (SPAC)](SPAC-Memo-CountyUseOfPrisonInARICounties.pdf)
 
 <!-- TAGS: Evaluation -->
-
 
 ### Records Relief: Why & How
 
@@ -236,7 +223,7 @@ How can judges, prosecutors, and defense counsel prevent criminal convictions fr
 
 - Brandon Williams, Supervising Attorney Criminal Records, Cabrini Green Legal Aid
 
-[Recording: https://youtu.be/mqlwRgGr6bc](https://youtu.be/mqlwRgGr6bc) 
+[Recording: https://youtu.be/mqlwRgGr6bc](https://youtu.be/mqlwRgGr6bc)
 
 [Slides: Criminal Records Relief – CBurns](Slides-CriminalRecordsRelief-Hon.CharlesBurns.pdf)
 
@@ -248,14 +235,13 @@ How can judges, prosecutors, and defense counsel prevent criminal convictions fr
 
 <!-- TAGS: Effective and Restorative Practices, Reintegration Resources -->
 
-
 ### Transforming Day-to-Day Probation Practice: The Use of Drug Testing
 
 Individuals on probation often are subject to drug testing. Positive test results can lead to probation sanctions, technical violations, and revocations, which, for some, may result in a period of incarceration. There is currently a lack of guidance for probation departments on drug testing, as well as a limited research on drug testing’s impact on reducing recidivism or improving behavioral health. This presentation will review existing information on drug testing offering information on efficacy, best practices, and limitations. The presentation will also share findings from a recent ICJIA study of Illinois probation departments which offers information on the landscape of probation policies and procedures and drug testing administration. Finally, the presentation features a discussion on drug testing in the age of COVID-19.
 
 - Jessica Reichert, Acting Associate Director, Illinois Criminal Justice Information Authority
 
-- Emily Behnke, Deputy Court Administrator, Problem-Solving Courts, 17th Judicial Circuit  
+- Emily Behnke, Deputy Court Administrator, Problem-Solving Courts, 17th Judicial Circuit
 
 [Recording: https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be](https://www.youtube.com/watch?v=suoDEIMq8JA&feature=youtu.be)
 
@@ -264,7 +250,6 @@ Individuals on probation often are subject to drug testing. Positive test result
 [Slides: The Use of Drug Testing in a Problem-Solving Court – Emily Behnke](https://archive.icjia-api.cloud/files/adult-redeploy/2020%20Summit%20Materials/Slides-The%20Use%20of%20Drug%20Testing%20in%20a%20Problem-Solving%20Court,%20Behnke.pdf)
 
 <!-- TAGS: Drug Court -->
-
 
 ### Using Evaluation to Advance Best Practices in Drug Court Programs
 
@@ -282,7 +267,6 @@ This session is designed to help agencies utilize data to advance best practices
 
 <!-- TAGS: Drug Court, Evaluation -->
 
-
 **Why Day Programming is More Than STATS: The Importance of Staying Connected during a Pandemic**
 
 Day programming can be used as a therapeutic adjustment tool, and also as a way to keep participants connected during uncertain times. STATS are important and assist in providing valuable information, but what’s behind the STATS? This workshop will take a deeper look into how day programming has assisted the Will County Problem Solving Court participants during COVID-19.
@@ -291,16 +275,16 @@ Day programming can be used as a therapeutic adjustment tool, and also as a way 
 
 - Don Martin, LPC, CADC, Case Manager, Will County Problem Solving Courts
 
-[Recording: https://youtu.be/xISA1vFMENU](https://youtu.be/xISA1vFMENU) 
+[Recording: https://youtu.be/xISA1vFMENU](https://youtu.be/xISA1vFMENU)
 
 [Slides: Why Day Programming Is More than STATS](Slides-WhyDayProgrammingIsMoreThanSTATS.pdf)
-<!-- 
-TAGS: Drug Court, Mental Health Court, Veterans Court -->
 
+<!--
+TAGS: Drug Court, Mental Health Court, Veterans Court -->
 
 ### Working with Emerging Adults
 
-This session explores the growing movement for criminal justice practitioners to recognize and adapt to the unique needs and strengths of emerging adults.  The panelists discuss the developmental characteristics of young adults and how those affect justice-system interactions, the supports and structures emerging adults need to be safe and successful, and what that means for the work of justice system stakeholders.
+This session explores the growing movement for criminal justice practitioners to recognize and adapt to the unique needs and strengths of emerging adults. The panelists discuss the developmental characteristics of young adults and how those affect justice-system interactions, the supports and structures emerging adults need to be safe and successful, and what that means for the work of justice system stakeholders.
 
 - Lisa Jacobs, Program Manager, Loyola University School of Law, Center for Criminal Justice Research, Policy and Practice
 
@@ -315,10 +299,3 @@ This session explores the growing movement for criminal justice practitioners to
 </div>
 
 <!-- TAGS: Effective and Restorative Practices -->
-
-
-
-
-
-
-

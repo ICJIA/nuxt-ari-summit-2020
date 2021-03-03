@@ -23,6 +23,8 @@
     "markdown-it": "^11.0.1",
     "markdown-it-attrs": "^3.0.3",
     "markdown-it-footnote": "^3.0.2",
+    "markdown-it-link-attributes": "^3.0.0",
+    "markdown-it-link-target": "^1.0.2",
     "markdown-it-named-headers": "0.0.4",
     "nuxt": "^2.14.5",
     "vue-browser-detect-plugin": "^0.1.13",

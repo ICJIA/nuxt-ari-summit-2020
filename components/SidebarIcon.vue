@@ -2,16 +2,21 @@
   <div>
     <v-icon
       id="hamburger"
-      :class="{dark: theme === 'light' || theme==='white', light: theme === 'dark'}"
+      :class="{
+        dark: theme === 'light' || theme === 'white',
+        light: theme === 'dark',
+      }"
       x-large
       @click="toggleSidebar"
-    >menu</v-icon>
-    <img 
-      :src="require('@/assets/img/logo-small-blue.jpg')" 
+      >menu</v-icon
+    >
+    <img
+      :src="require('@/assets/img/logo-small-blue.jpg')"
       width="80"
-      class="logo" 
+      class="logo"
       alt="Illinois Criminal Justice Information Authority"
-      @click="gotoIcjia">
+      @click="gotoIcjia"
+    />
   </div>
 </template>
 
@@ -21,13 +26,13 @@ import pages from '@/manifest.json'
 export default {
   data() {
     return {
-      theme: 'light'
+      theme: 'light',
     }
   },
   computed: {},
   mounted() {
-    EventBus.$on('pageUpdate', id => {
-      const result = pages.find(obj => {
+    EventBus.$on('pageUpdate', (id) => {
+      const result = pages.find((obj) => {
         if (obj.attributes.id === id) {
           return obj
         }
@@ -41,8 +46,8 @@ export default {
     },
     gotoIcjia() {
       location.href = 'http://www.icjia.state.il.us'
-    }
-  }
+    },
+  },
 }
 </script>
 

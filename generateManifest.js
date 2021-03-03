@@ -4,6 +4,7 @@ const markdown = './markdown/'
 const manifest = 'manifest.json'
 let arr = []
 const path = require('path')
+var mila = require('markdown-it-link-attributes')
 
 let md = require('markdown-it')({
   html: true,
@@ -12,8 +13,14 @@ let md = require('markdown-it')({
   langPrefix: 'language-',
   linkify: true,
   typographer: false,
-  quotes: '“”‘’'
+  quotes: '“”‘’',
 })
+  .use(mila, {
+    attrs: {
+      target: '_blank',
+      rel: 'noopener',
+    },
+  })
   .use(require('markdown-it-footnote'))
   .use(require('markdown-it-named-headers'))
   .use(require('markdown-it-attrs'))
@@ -29,24 +36,23 @@ function dynamicSort(property) {
     sortOrder = -1
     property = property.substr(1)
   }
-  return function(a, b) {
+  return function (a, b) {
     var result =
       a[property] < b[property] ? -1 : a[property] > b[property] ? 1 : 0
     return result * sortOrder
   }
 }
 
-const readFiles = dirname => {
+const readFiles = (dirname) => {
   const readDirPr = new Promise((resolve, reject) => {
-    fs.readdir(
-      dirname,
-      (err, filenames) => (err ? reject(err) : resolve(filenames))
+    fs.readdir(dirname, (err, filenames) =>
+      err ? reject(err) : resolve(filenames)
     )
   })
 
-  return readDirPr.then(filenames =>
+  return readDirPr.then((filenames) =>
     Promise.all(
-      filenames.map(filename => {
+      filenames.map((filename) => {
         return new Promise((resolve, reject) => {
           fs.readFile(dirname + filename, 'utf-8', (err, content) => {
             let obj = {}
@@ -65,14 +71,14 @@ const readFiles = dirname => {
           })
         })
       })
-    ).catch(error => Promise.reject(error))
+    ).catch((error) => Promise.reject(error))
   )
 }
 
 readFiles('./markdown/').then(
-  allContents => {
+  (allContents) => {
     allContents.sort(dynamicSort('position'))
     fs.writeFileSync('manifest.json', JSON.stringify(allContents))
   },
-  error => console.log(error)
+  (error) => console.log(error)
 )

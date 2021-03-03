@@ -1,27 +1,16 @@
 /* eslint-disable vue/max-attributes-per-line */
 <template>
-  <div
-    :id="page.attributes.id"
-    class="page"
-  >
+  <div :id="page.attributes.id" class="page">
     <v-container
       :style="setPageStyle(page.attributes.theme)"
       fluid
       class="full-width full-height"
     >
-      <v-layout
-        row
-        pl-5
-        pr-0
-      >
-        <v-flex
-          class="text-xs-center"
-          xs10
-          offset-xs1
-        >
+      <v-layout row pl-5 pr-0>
+        <v-flex class="text-xs-center" xs10 offset-xs1>
           <div class="wrapper">
             <page-content :alignment="page.attributes.alignment">
-              <template v-slot:header>
+              <template #header>
                 <div v-if="page.attributes.id === 'home'">
                   <h1 class="mb-5 main">
                     <span v-html="page.attributes.title" />
@@ -33,30 +22,17 @@
                   </h2>
                 </div>
               </template>
-              <template v-slot:content>
+              <template #content>
                 <v-layout v-if="page.attributes.layout === 'full'">
                   <v-flex xs12>
                     <div v-html="renderedMarkdown" />
                   </v-flex>
                 </v-layout>
-                <v-layout
-                  v-if="page.attributes.layout === 'map'"
-                  row
-                  wrap
-                >
-                  <v-flex
-                    xs12
-                    sm12
-                    md6
-                  >
+                <v-layout v-if="page.attributes.layout === 'map'" row wrap>
+                  <v-flex xs12 sm12 md6>
                     <div v-html="renderedMarkdown" />
                   </v-flex>
-                  <v-flex
-                    xs12
-                    sm12
-                    md6
-                    hidden-sm-and-down
-                  >
+                  <v-flex xs12 sm12 md6 hidden-sm-and-down>
                     <!-- <h1
                       style="margin-top: -25px;"
                       class="text-xs-center"
@@ -71,10 +47,7 @@
                 </v-layout>
               </template>
 
-              <template
-                v-if="config.debug"
-                v-slot:debug
-              >
+              <template v-if="config.debug" #debug>
                 <div>{{ page }}</div>
               </template>
             </page-content>
@@ -91,17 +64,17 @@ import config from '@/config'
 import PageContent from '@/components/PageContent'
 export default {
   components: {
-    PageContent
+    PageContent,
   },
   props: {
     page: {
       type: Object,
-      default: null
-    }
+      default: null,
+    },
   },
   data() {
     return {
-      config
+      config,
     }
   },
   computed: {
@@ -110,14 +83,14 @@ export default {
     },
     renderedMarkdown() {
       return this.page.html
-    }
+    },
   },
   mounted() {},
   methods: {
     setPageStyle(theme) {
       return this.config.theme[theme]
-    }
-  }
+    },
+  },
 }
 </script>
 
