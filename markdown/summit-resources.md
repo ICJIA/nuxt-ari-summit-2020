@@ -1,6 +1,6 @@
 ---
 id: 'summit-resources'
-title: 'Summit Resources'
+title: 'Adult Redeploy Documents'
 theme: 'light'
 alignment: 'left'
 layout: 'full'
@@ -11,13 +11,11 @@ position: 1100
 a {font-size: 15px}
 </style>
 
-## Adult Redeploy Documents
-
 <div style="margin-left: 20px">
 
 - [Adult Redeploy Illinois Fact Sheet](AdultRedeployIllinoisFactSheet-SFY20.pdf)
 
-- [ARI COVID-19 Site Survey Results](ARICOVID-19SiteSurveyResults.pdf)
+- [ARI COVID-19 Site Survey Results](ARICOVID-19SurveyResults-2020.pdf)
 
 - [ARI Strategic Plan 2020-2022](ARIStrategicPlan2020-2022.pdf)
 
@@ -41,7 +39,6 @@ https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
 [Recording: https://youtu.be/xbsIhtt_fj4](https://youtu.be/xbsIhtt_fj4)
 
 </div>
-
 
 ## Plenary Sessions
 
