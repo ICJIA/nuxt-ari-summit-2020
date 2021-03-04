@@ -16,7 +16,7 @@ a {font-size: 15px}
 
 - [Adult Redeploy Illinois Fact Sheet](AdultRedeployIllinoisFactSheet-SFY20.pdf)
 
-- [ARI COVID-19 Site Survey Results](ARICOVID-19SurveyResults-2020.pdf)
+- [ARI COVID-19 Site Survey Results](ARICOVID-19SiteSurveyResults.pdf)
 
 - [ARI Strategic Plan 2020-2022](ARIStrategicPlan2020-2022.pdf)
 
