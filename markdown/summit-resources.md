@@ -5,12 +5,13 @@ theme: 'light'
 alignment: 'left'
 layout: 'full'
 position: 1100
-pageTitle: 'Adult Redeploy Illinois Documents'
 ---
 
 <style>
 a {font-size: 15px}
 </style>
+
+## Adult Redeploy Illinois Documents
 
 <div style="margin-left: 20px">
 
@@ -22,13 +23,13 @@ a {font-size: 15px}
 
 </div>
 
-## Keynote Addresses
+### Keynote Addresses
 
 <div style="margin-left: 20px">
 
 - Juliana Stratton, Lieutenant Governor, State of Illinois
 
-### Welcome Remarks
+#### Welcome Remarks
 
 https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
 
@@ -41,11 +42,11 @@ https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
 
 </div>
 
-## Plenary Sessions
+### Plenary Sessions
 
 <div style="margin-left: 20px">
 
-### A Conversation on the Future of Community Corrections
+#### A Conversation on the Future of Community Corrections
 
 Listen as experts in community corrections, at the national level and state level, discuss the changes they have seen in the field due to the pandemic and what they would like to see carried into the future.
 
@@ -67,7 +68,7 @@ Listen as experts in community corrections, at the national level and state leve
 
 [Resource: Policy Reforms Can Strengthen Community Supervision – Pew PSPP](Pew-Report-PolicyReformsCanStrengthenCommunitySupervision.pdf)
 
-### Wellness Strategies to Build Resilience
+#### Wellness Strategies to Build Resilience
 
 This workshop is an empowering twist on vicarious trauma. The session will cover exciting research on the neurobiology of vicarious trauma as well as talk about stress and compassion fatigue. Participants will walk away with practical tools to build resilience and buffer yourself from vicarious trauma. You will learn strategies that you can use in-the-moment, while working with clients, to set your brain up for success. We will learn how to not play the pass-the-trauma game with colleagues and how to engage in boundaried empathy. You will leave this training with an understanding of your risk for vicarious trauma, a self-care plan, resilience strategies, and tips to manage the impact from your exposure to traumatizing information.
 
@@ -79,11 +80,11 @@ This workshop is an empowering twist on vicarious trauma. The session will cover
 
 </div>
 
-## Breakout Sessions
+### Breakout Sessions
 
 <div style="margin-left: 20px">
 
-### 21st Century Treatment: The Dance of Transforming Traditional to Virtual Services
+#### 21st Century Treatment: The Dance of Transforming Traditional to Virtual Services
 
 Whether we are in unprecedented times of a pandemic, or a person merely lives in a rural or urban area without reliable transportation, “Access to Care” is a real issue facing many individuals seeking care, as well as those referring individuals for services. Workshop attendees will learn from industry leaders the benefits and the necessities of being able to seamlessly and effectively connect to virtual platforms for behavioral health services that have traditionally been provided in an “in person” setting. Data on effectiveness, rules and regulations that create opportunities and barriers, as well as examples of virtual platform resources will be shared with workshop attendees.
 
@@ -97,7 +98,7 @@ Whether we are in unprecedented times of a pandemic, or a person merely lives in
 
 [Slides: 21st Century Treatment - The Dance of Transforming Traditional to Virtual Services](Slides-21stCenturyTreatment-TheDanceofTransformingTraditionaltoVirtualServices.pdf)
 
-### Aligning Community-Based Housing Responses with Community Corrections Initiatives
+#### Aligning Community-Based Housing Responses with Community Corrections Initiatives
 
 The goals of the Adult Redeploy Illinois program to keep people in their community, out of prison and jail, while increasing health and employment are aligned with the goals of other community-based services such as supportive housing. CSH will discuss the findings of the planning project in partnership with ICJIA, highlight local and national evidence on how housing interventions reduce justice involvement, and uplift statewide opportunities to increase access to housing resources for this population. This session will also include concrete next steps within each community, uplifting steps already being taken among ARI sites.
 
@@ -116,7 +117,7 @@ The goals of the Adult Redeploy Illinois program to keep people in their communi
 
 <!-- TAGS: Reintegration Resources -->
 
-### Breakthroughs in Trauma Treatment
+#### Breakthroughs in Trauma Treatment
 
 Effectively addressing trauma is vital to the success of ARI participants and programs. This session explains elements of a basic Integrated Trauma Treatment Program (ITTP) including psychotherapy types used (EMDR, Seeking Safety, and others), effective practices, and systemic aspects. We will discuss funding mechanisms, and how to build and maintain partnerships across legal, medical, and social service sectors.
 
@@ -131,7 +132,7 @@ Effectively addressing trauma is vital to the success of ARI participants and pr
 <!-- TAGS: Drug Court, Mental Health Court
  -->
 
-### Community Engagement & Restorative Practices in ARI
+#### Community Engagement & Restorative Practices in ARI
 
 How can Adult Redeploy Illinois sites integrate restorative practices into their programs? We will discuss the four pillars of restorative practice and how they make a difference, how restorative practices can be used in different types of ARI programs, and how the Macon County Community Restorative Board connects participants with community members who bring resources and opportunities beyond what ARI alone can offer.
 
@@ -147,7 +148,7 @@ How can Adult Redeploy Illinois sites integrate restorative practices into their
 
 <!-- TAGS: Effective and Restorative Practices -->
 
-### Effective Sanctions & Restorative Community Practice
+#### Effective Sanctions & Restorative Community Practice
 
 Probation officers and courts sometimes face repeated non-compliance by people they supervise. They reach a point of using jail as a sanction. We know that jail destabilizes people; even one to three days may cause loss of employment, housing, child custody, or family ties. Jail can traumatize people, and in these days of COVID-19, it may be an unintended death sentence. Violations often occur because of past or present trauma in the lives of the participants we serve. How might a restorative justice approach help reduce violations or bad decision-making that may be caused by trauma? What level of personal freedom is necessary to effectively promote lawful behavior? What tools might officers need in order to achieve the outcomes they strive for that relate to safety and accountability, pro-social functioning, and community integration?
 
@@ -175,7 +176,7 @@ Probation officers and courts sometimes face repeated non-compliance by people t
 
 <!-- TAGS: Effective and Restorative Practices -->
 
-### Neurobiology of Substance Use Disorders & Medication Assisted Treatment
+#### Neurobiology of Substance Use Disorders & Medication Assisted Treatment
 
 Substance Use Disorder is a chronic, relapsing brain disease. This complex disease takes more than a strong will to quit. Understanding how the brain functions helps us to use appropriate strategies that impact program retention. We explore key components in chemical dependence, how addictive substances affect the brain, evidence-based practices for substance use disorder, and the role of MAT in treatment.
 
@@ -195,7 +196,7 @@ Substance Use Disorder is a chronic, relapsing brain disease. This complex disea
 
 <!-- TAGS: Drug Court -->
 
-### Prison Use Declines in ARI Jurisdictions - Implications for the Future
+#### Prison Use Declines in ARI Jurisdictions - Implications for the Future
 
 One of the baseline questions about alternatives to incarceration is whether they impact the use of prison. Last year SPAC analyzed criminal justice data to answer the question: "Does Adult Redeploy Illinois change the rate of prison use in jurisdictions with ARI programs?" The SPAC team will present what the analysis revealed and offer their thoughts on what the results mean for ARI.
 
@@ -211,7 +212,7 @@ One of the baseline questions about alternatives to incarceration is whether the
 
 <!-- TAGS: Evaluation -->
 
-### Records Relief: Why & How
+#### Records Relief: Why & How
 
 How can judges, prosecutors, and defense counsel prevent criminal convictions from shattering lives and exacerbating recidivism? What has the impact of records relief been for ARI graduates? What are the myths and facts about collateral consequences of felony convictions? What are the barriers to public benefits, housing, employment, and financial aid? How can ARI court programs reduce harm for their participants and engage in criminal records relief? How do expungement and sealing of records work? Last of all, how can the Cannabis Regulation and Tax Act aid participants?
 
@@ -233,7 +234,7 @@ How can judges, prosecutors, and defense counsel prevent criminal convictions fr
 
 <!-- TAGS: Effective and Restorative Practices, Reintegration Resources -->
 
-### Transforming Day-to-Day Probation Practice: The Use of Drug Testing
+#### Transforming Day-to-Day Probation Practice: The Use of Drug Testing
 
 Individuals on probation often are subject to drug testing. Positive test results can lead to probation sanctions, technical violations, and revocations, which, for some, may result in a period of incarceration. There is currently a lack of guidance for probation departments on drug testing, as well as a limited research on drug testing’s impact on reducing recidivism or improving behavioral health. This presentation will review existing information on drug testing offering information on efficacy, best practices, and limitations. The presentation will also share findings from a recent ICJIA study of Illinois probation departments which offers information on the landscape of probation policies and procedures and drug testing administration. Finally, the presentation features a discussion on drug testing in the age of COVID-19.
 
@@ -249,7 +250,7 @@ Individuals on probation often are subject to drug testing. Positive test result
 
 <!-- TAGS: Drug Court -->
 
-### Using Evaluation to Advance Best Practices in Drug Court Programs
+#### Using Evaluation to Advance Best Practices in Drug Court Programs
 
 This session is designed to help agencies utilize data to advance best practices in their drug court programs. During this presentation we will explore different ways to generate data on your program’s service population, service delivery, and program outcomes. We also discuss how to utilize data to (a) celebrate program accomplishments, (b) identify areas for improvement, and (c) inform program decisions.
 
@@ -280,7 +281,7 @@ Day programming can be used as a therapeutic adjustment tool, and also as a way 
 <!--
 TAGS: Drug Court, Mental Health Court, Veterans Court -->
 
-### Working with Emerging Adults
+#### Working with Emerging Adults
 
 This session explores the growing movement for criminal justice practitioners to recognize and adapt to the unique needs and strengths of emerging adults. The panelists discuss the developmental characteristics of young adults and how those affect justice-system interactions, the supports and structures emerging adults need to be safe and successful, and what that means for the work of justice system stakeholders.
 
