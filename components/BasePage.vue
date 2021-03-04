@@ -18,7 +18,11 @@
                 </div>
                 <div v-else>
                   <h2 class="header">
-                    <span v-html="page.attributes.title" />
+                    <span
+                      v-if="page.attributes.pageTitle"
+                      v-html="page.attributes.pageTitle"
+                    />
+                    <span v-else v-html="page.attributes.title"> </span>
                   </h2>
                 </div>
               </template>

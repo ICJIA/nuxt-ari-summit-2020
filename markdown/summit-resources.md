@@ -1,10 +1,11 @@
 ---
 id: 'summit-resources'
-title: 'Adult Redeploy Documents'
+title: 'Summit Resources'
 theme: 'light'
 alignment: 'left'
 layout: 'full'
 position: 1100
+pageTitle: 'Adult Redeploy Illinois Documents'
 ---
 
 <style>
