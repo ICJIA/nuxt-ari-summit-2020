@@ -31,7 +31,7 @@ a {font-size: 15px}
 
 ### Welcome Remarks
 
-https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4
+[Recording: https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4](https://multimedia.illinois.gov/icjia/ICJIA-ARI-All-Sites-Summit-Keynote.mp4)
 
 [Resource: The Justice, Equity, and Opportunity Initiative Report](JusticeEquityAndOpportunityInitiativeReport.pdf)
 
