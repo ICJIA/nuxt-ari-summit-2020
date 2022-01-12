@@ -20,7 +20,7 @@
     "@nuxtjs/axios": "^5.12.2",
     "cross-env": "^7.0.3",
     "front-matter": "^4.0.2",
-    "markdown-it": "^11.0.1",
+    "markdown-it": "^12.3.2",
     "markdown-it-attrs": "^3.0.3",
     "markdown-it-footnote": "^3.0.2",
     "markdown-it-link-attributes": "^3.0.0",
